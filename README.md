@@ -8,5 +8,4 @@ Available **CFGs**:
 > - 5on5 - 5vs5
 > - GOTV
 
-
-[Original link](https://play.eslgaming.com/download/26251762/)
+[Original link from ESL](https://play.eslgaming.com/download/26251762/)
