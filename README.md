@@ -9,3 +9,5 @@ Available **CFGs**:
 > - GOTV
 
 [Original link from ESL](https://play.eslgaming.com/download/26251762/)
+
+## If you ever wish to edit these CFGs, please make sure to give credits to ESL as they are the copyright owners. Thanks for understanding.
